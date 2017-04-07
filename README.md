@@ -1,2 +1,4 @@
-# smartconn
-The smartconn is a project short for smart devices connect.
+# Smartconn
+The smartconn is a project short for smart devices connecting.
+
+Email:cn.compous@gmail.com
